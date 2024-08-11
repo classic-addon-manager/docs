@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaac_addons=self.webpackChunkaac_addons||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
