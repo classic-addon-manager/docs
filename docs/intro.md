@@ -34,4 +34,8 @@ On the character select screen, at the bottom left the Addons button should be p
 
 ## Making your own 
 
-On this documentation website, you'll find tutorials on making your own addon aswell as general documentation on the API we provide.
+On this documentation website, you'll find tutorials on making your own addon aswell as general documentation on the API we provide. 
+
+## Addon Manager
+
+TODO
