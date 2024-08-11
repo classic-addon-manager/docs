@@ -18,7 +18,7 @@ Get started by **installing the example addon**.
 
 Go into the Documents/AAClassic folder
 
-Create a folder named `addons`
+Create or open the folder named `Addon`
 
 Extract the `example_addon` folder into it
 
@@ -31,3 +31,7 @@ Write the name of the addon folder on the first line
 Now that you've installed the addon, start the game
 
 On the character select screen, at the bottom left the Addons button should be present. Click it, and if it shows the Example Addon is installed, you're done!
+
+## Making your own 
+
+On this documentation website, you'll find tutorials on making your own addon aswell as general documentation on the API we provide.
